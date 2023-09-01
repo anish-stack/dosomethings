@@ -1,4 +1,12 @@
 {
+    "name": "eccomerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js"
+  },
   "dependencies": {
     "@dicebear/collection": "^6.0.4",
     "@dicebear/core": "^6.0.4",
